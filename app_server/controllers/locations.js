@@ -8,6 +8,7 @@ module.exports.homeList = function(req, res){
         title: 'Loc8r',
         strapline: 'Find places to work wifi wifi near you!'
       },
+      sidebar: "Looking for wifi and a seat? Loc8r helps you find a places to work when out and about. Perhaps wirh coffee, cake or a pint? Let Loc8r help you find the place you're looking for.",
       locations: [{
         name: 'Starcups',
         address: '125 High Street, Reading, RG6 1PS',
